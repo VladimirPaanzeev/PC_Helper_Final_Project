@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><string-array name="pc_components">
+    <item>Материнская плата</item>
+    <item>Процессор</item>
+    <item>Видеокарта</item>
+    <item>Оперативная память </item>
+    <item>Блок питания </item>
+    <item>Накопитель(HDD/SSD)</item>
+    <item>Охлаждение</item>
+    <item>Корпус</item>
+    <item>Устройства ввода/вывода</item>
+    <item>Часто используемые интерфейсы</item>
+</string-array>
+    <string-array name="fales">
+        <item>Компьютер включается но нет изображения </item>
+        <item>Появляются артефакты/гличи на экране</item>
+        <item>Компьютер не включается </item>
+        <item>Компьютер лагает там где не должен лагать </item>
+    </string-array>
+</resources>
